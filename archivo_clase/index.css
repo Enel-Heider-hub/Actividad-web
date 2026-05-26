@@ -42,3 +42,23 @@
  	color:#00008B;
 
  }
+.menudeopciones{
+background-color: #00008B;
+overflow: hidden;
+}
+#opcion{
+background-color: #00008B;
+list-style: none;
+float: right;
+}
+#enlace{
+padding:10px 20px ;
+display: block;
+color: azure;
+text-decoration: none;
+}
+
+#opcion:hover{
+background-color: crimson;
+transition:background-color 0.9s;
+}
